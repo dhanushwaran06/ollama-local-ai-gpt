@@ -9,7 +9,7 @@ A modern local AI chat application using **Ollama**, **Flask**, and **MySQL**. T
 
 
 ### Screenshot 2
-![Screenshot 2](sample_screenshot_2.png)
+![Screenshot 1](https://raw.githubusercontent.com/dhanushwaran06/ollama-local-ai-gpt/main/sample_screenshot_2%20.png)
 
 ## Features
 
