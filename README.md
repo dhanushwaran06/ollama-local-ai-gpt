@@ -2,6 +2,13 @@
 
 A modern local AI chat application using **Ollama**, **Flask**, and **MySQL**. This project allows you to interact with a local AI model, store conversations in a database, and enjoy a sleek user interface.
 ---
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](sample_screenshort_1.png)
+
+### Screenshot 2
+![Screenshot 2](sample_screenshort_2.png)
 
 ## Features
 
