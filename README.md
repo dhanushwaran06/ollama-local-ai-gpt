@@ -5,10 +5,10 @@ A modern local AI chat application using **Ollama**, **Flask**, and **MySQL**. T
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](sample_screenshort_1.png)
+![Screenshot 1](sample_screenshot_1.png)
 
 ### Screenshot 2
-![Screenshot 2](sample_screenshort_2.png)
+![Screenshot 2](sample_screenshot_2.png)
 
 ## Features
 
